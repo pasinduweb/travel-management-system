@@ -1,2 +1,2 @@
-# Travel-Management_System
+# Travel-Management-System
 Travel Agency Management System in C++ | Object Oriented Programming | File Handling
